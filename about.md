@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Jay-vee A. Ubaldo curentlly 20yo from Blk 21 santol street of Gordon Heights Olongapo City in Zambales, puruing a Bachelor of Science in Information Technology in Gordon College.
 
-### More Information
+### More about me
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently enrolled at Gordon College, pursuing studies in IT. I find great satisfaction in editing, with a particular passion for enhancing videos and photos. Additionally, troubleshooting holds a special appeal for me, particularly when it comes to working with hardware.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[EMAIL me here](mailto:202111199@gordoncollege.edu.ph)
